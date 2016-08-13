@@ -82,7 +82,7 @@ figcaption {
 
 	.main-nav a {
 		font-size: .95em;
-		color: #81CFE0;
+		color: #4B77BE;
 		text-transform: uppercase;
 		transition: all 0.75s;
 	}
@@ -105,7 +105,7 @@ figcaption {
 
 .banner {
 	color: #fff;
-	background: #19B5FE;
+	background: #3498DB;
 	padding: 3.2em 0;
 	margin-bottom: 60px;
 }
@@ -116,7 +116,8 @@ figcaption {
 }
 
 .main-footer {
-	background: #C5EFF7;
+	background: #3A539B;
+	color: white;
 	padding: 2em 0;
 	margin-top: 30px;
 }
